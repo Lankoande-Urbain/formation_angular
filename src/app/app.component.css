@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+.text {
+  text-shadow: 2px 2px 30px #333;
+  font-weight: 800;
+  font-size: 52px;
+}
+* {
+  font-family: "Lato", Lato;
+}
+
+.content {
+  max-width: 800px;
+}
+.left-side {
+  padding: 10px;
+}
+.table {
+  width: 100% !important; /*a   Assure que la table occupe toute la largeur */
+}
